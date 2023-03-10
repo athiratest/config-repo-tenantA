@@ -1,5 +1,6 @@
-banglore:
-    hospital:
-      hospId: manipal123
-      hospName: manipal
+spring:
+    banglore:
+        hospital:
+            hospId: manipal123
+            hospName: manipal
 
