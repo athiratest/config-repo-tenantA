@@ -1,1 +1,4 @@
-
+spring:
+  xds:
+    tenant_name: tenantA
+    tenant_id: tenantA
